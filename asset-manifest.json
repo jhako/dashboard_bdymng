@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dashboard_bdymng/static/css/main.81d291c4.chunk.css",
+    "main.js": "/dashboard_bdymng/static/js/main.904c4b9e.chunk.js",
+    "main.js.map": "/dashboard_bdymng/static/js/main.904c4b9e.chunk.js.map",
+    "runtime-main.js": "/dashboard_bdymng/static/js/runtime-main.be2c94d1.js",
+    "runtime-main.js.map": "/dashboard_bdymng/static/js/runtime-main.be2c94d1.js.map",
+    "static/css/2.1b19f61c.chunk.css": "/dashboard_bdymng/static/css/2.1b19f61c.chunk.css",
+    "static/js/2.fca5f265.chunk.js": "/dashboard_bdymng/static/js/2.fca5f265.chunk.js",
+    "static/js/2.fca5f265.chunk.js.map": "/dashboard_bdymng/static/js/2.fca5f265.chunk.js.map",
+    "index.html": "/dashboard_bdymng/index.html",
+    "sql-wasm.wasm": "/dashboard_bdymng/sql-wasm-2b277767061e6a2529fe1f2e6fe80b4a.wasm",
+    "static/css/2.1b19f61c.chunk.css.map": "/dashboard_bdymng/static/css/2.1b19f61c.chunk.css.map",
+    "static/css/main.81d291c4.chunk.css.map": "/dashboard_bdymng/static/css/main.81d291c4.chunk.css.map",
+    "static/js/2.fca5f265.chunk.js.LICENSE.txt": "/dashboard_bdymng/static/js/2.fca5f265.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be2c94d1.js",
+    "static/css/2.1b19f61c.chunk.css",
+    "static/js/2.fca5f265.chunk.js",
+    "static/css/main.81d291c4.chunk.css",
+    "static/js/main.904c4b9e.chunk.js"
+  ]
+}
