@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dashboard_bdymng/static/css/main.81d291c4.chunk.css",
-    "main.js": "/dashboard_bdymng/static/js/main.6c5ab831.chunk.js",
-    "main.js.map": "/dashboard_bdymng/static/js/main.6c5ab831.chunk.js.map",
+    "main.js": "/dashboard_bdymng/static/js/main.ef22d0c6.chunk.js",
+    "main.js.map": "/dashboard_bdymng/static/js/main.ef22d0c6.chunk.js.map",
     "runtime-main.js": "/dashboard_bdymng/static/js/runtime-main.be2c94d1.js",
     "runtime-main.js.map": "/dashboard_bdymng/static/js/runtime-main.be2c94d1.js.map",
     "static/css/2.1b19f61c.chunk.css": "/dashboard_bdymng/static/css/2.1b19f61c.chunk.css",
@@ -13,14 +13,14 @@
     "static/css/2.1b19f61c.chunk.css.map": "/dashboard_bdymng/static/css/2.1b19f61c.chunk.css.map",
     "static/css/main.81d291c4.chunk.css.map": "/dashboard_bdymng/static/css/main.81d291c4.chunk.css.map",
     "static/js/2.fca5f265.chunk.js.LICENSE.txt": "/dashboard_bdymng/static/js/2.fca5f265.chunk.js.LICENSE.txt",
-    "static/media/body_app.370c609c.db": "/dashboard_bdymng/static/media/body_app.370c609c.db",
-    "static/media/fitbit.a6242351.db": "/dashboard_bdymng/static/media/fitbit.a6242351.db"
+    "static/media/body_app.fbc015c9.db": "/dashboard_bdymng/static/media/body_app.fbc015c9.db",
+    "static/media/fitbit.a27d7678.db": "/dashboard_bdymng/static/media/fitbit.a27d7678.db"
   },
   "entrypoints": [
     "static/js/runtime-main.be2c94d1.js",
     "static/css/2.1b19f61c.chunk.css",
     "static/js/2.fca5f265.chunk.js",
     "static/css/main.81d291c4.chunk.css",
-    "static/js/main.6c5ab831.chunk.js"
+    "static/js/main.ef22d0c6.chunk.js"
   ]
 }
